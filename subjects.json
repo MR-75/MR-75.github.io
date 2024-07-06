@@ -1,0 +1,239 @@
+[
+    {
+        "name": "Mathematics",
+        "shortName": "maths",
+        "board": "CAIE",
+        "code": "9709",
+        "level": "AS",
+        "icon": "",
+        "links": [
+            { "label": "MCQs", "url": "maths_mcqs.html" },
+            { "label": "Resource Bank", "url": "/maths.html" },
+            { "label": "Past Paper Questions", "url": "maths_past_paper_questions.html" }
+        ]
+    },
+    {
+        "name": "Mathematics",
+        "shortName": "maths",
+        "board": "CAIE",
+        "code": "9709",
+        "level": "A2",
+        "icon": "",
+        "links": [
+            { "label": "MCQs", "url": "maths_mcqs.html" },
+            { "label": "Revision Notes", "url": "maths_revision_notes.html" },
+            { "label": "Past Paper Questions", "url": "maths_past_paper_questions.html" }
+        ]
+    },
+    {
+        "name": "Computer Science",
+        "shortName": "cs",
+        "board": "CAIE",
+        "code": "9618",
+        "level": "AS",
+        "icon": "",
+        "links": [
+            { "label": "MCQs", "url": "cs_mcqs.html" },
+            { "label": "Revision Notes", "url": "cs_revision_notes.html" },
+            { "label": "Past Paper Questions", "url": "cs_past_paper_questions.html" }
+        ]
+    },
+    {
+        "name": "Computer Science",
+        "shortName": "cs",
+        "board": "CAIE",
+        "code": "9618",
+        "level": "A2",
+        "icon": "",
+        "links": [
+            { "label": "MCQs", "url": "cs_mcqs.html" },
+            { "label": "Revision Notes", "url": "cs_revision_notes.html" },
+            { "label": "Past Paper Questions", "url": "cs_past_paper_questions.html" }
+        ]
+    },
+    {
+        "name": "Physics",
+        "shortName": "phy",
+        "board": "CAIE",
+        "code": "9702",
+        "level": "AS",
+        "icon": "",
+        "links": [
+            { "label": "MCQs", "url": "phy_mcqs.html" },
+            { "label": "Revision Notes", "url": "phy_revision_notes.html" },
+            { "label": "Past Paper Questions", "url": "phy_past_paper_questions.html" }
+        ]
+    },
+    {
+        "name": "Physics",
+        "shortName": "phy",
+        "board": "CAIE",
+        "code": "9702",
+        "level": "A2",
+        "icon": "",
+        "links": [
+            { "label": "MCQs", "url": "phy_mcqs.html" },
+            { "label": "Revision Notes", "url": "phy_revision_notes.html" },
+            { "label": "Past Paper Questions", "url": "phy_past_paper_questions.html" }
+        ]
+    },
+    {
+        "name": "Biology",
+        "shortName": "bio",
+        "board": "CAIE",
+        "code": "9700",
+        "level": "AS",
+        "icon": "",
+        "links": [
+            { "label": "MCQs", "url": "bio_mcqs.html" },
+            { "label": "Revision Notes", "url": "bio_revision_notes.html" },
+            { "label": "Past Paper Questions", "url": "bio_past_paper_questions.html" }
+        ]
+    },
+    {
+        "name": "Biology",
+        "shortName": "bio",
+        "board": "CAIE",
+        "code": "9700",
+        "level": "A2",
+        "icon": "",
+        "links": [
+            { "label": "MCQs", "url": "bio_mcqs.html" },
+            { "label": "Revision Notes", "url": "bio_revision_notes.html" },
+            { "label": "Past Paper Questions", "url": "bio_past_paper_questions.html" }
+        ]
+    },
+    {
+        "name": "Chemistry",
+        "shortName": "chem",
+        "board": "CAIE",
+        "code": "9701",
+        "level": "AS",
+        "icon": "",
+        "links": [
+            { "label": "MCQs", "url": "chem_mcqs.html" },
+            { "label": "Revision Notes", "url": "chem_revision_notes.html" },
+            { "label": "Past Paper Questions", "url": "chem_past_paper_questions.html" }
+        ]
+    },
+    {
+        "name": "Chemistry",
+        "shortName": "chem",
+        "board": "CAIE",
+        "code": "9701",
+        "level": "A2",
+        "icon": "",
+        "links": [
+            { "label": "MCQs", "url": "chem_mcqs.html" },
+            { "label": "Revision Notes", "url": "chem_revision_notes.html" },
+            { "label": "Past Paper Questions", "url": "chem_past_paper_questions.html" }
+        ]
+    },
+    {
+        "name": "Business Studies",
+        "shortName": "bus",
+        "board": "CAIE",
+        "code": "9809",
+        "level": "AS",
+        "icon": "",
+        "links": [
+            { "label": "MCQs", "url": "eco_mcqs.html" },
+            { "label": "Revision Notes", "url": "eco_revision_notes.html" },
+            { "label": "Past Paper Questions", "url": "eco_past_paper_questions.html" }
+        ]
+    },
+    {
+        "name": "Business Studies",
+        "shortName": "bus",
+        "board": "CAIE",
+        "code": "9809",
+        "level": "A2",
+        "icon": "",
+        "links": [
+            { "label": "MCQs", "url": "eco_mcqs.html" },
+            { "label": "Revision Notes", "url": "eco_revision_notes.html" },
+            { "label": "Past Paper Questions", "url": "eco_past_paper_questions.html" }
+        ]
+    },
+    {
+        "name": "Economics",
+        "shortName": "eco",
+        "board": "CAIE",
+        "code": "9708",
+        "level": "AS",
+        "icon": "",
+        "links": [
+            { "label": "MCQs", "url": "eco_mcqs.html" },
+            { "label": "Revision Notes", "url": "eco_revision_notes.html" },
+            { "label": "Past Paper Questions", "url": "eco_past_paper_questions.html" }
+        ]
+    },
+    {
+        "name": "Economics",
+        "shortName": "eco",
+        "board": "CAIE",
+        "code": "9708",
+        "level": "A2",
+        "icon": "",
+        "links": [
+            { "label": "MCQs", "url": "eco_mcqs.html" },
+            { "label": "Revision Notes", "url": "eco_revision_notes.html" },
+            { "label": "Past Paper Questions", "url": "eco_past_paper_questions.html" }
+        ]
+    },
+    {
+        "name": "Additional Maths",
+        "shortName": "addmath",
+        "board": "CAIE",
+        "code": "0606",
+        "level": "IGCSE",
+        "icon": "",
+        "links": [
+            { "label": "MCQs", "url": "addmath_mcqs.html" },
+            { "label": "Revision Notes", "url": "addmath_revision_notes.html" },
+            { "label": "Past Paper Questions", "url": "addmath_past_paper_questions.html" }
+        ]
+    },
+    {
+        "name": "Mathematics",
+        "shortName": "maths",
+        "board": "CAIE",
+        "code": "0580",
+        "level": "IGCSE",
+        "icon": "",
+        "links": [
+            { "label": "MCQs", "url": "maths_mcqs.html" },
+            { "label": "Revision Notes", "url": "maths_revision_notes.html" },
+            { "label": "Past Paper Questions", "url": "maths_past_paper_questions.html" }
+        ]
+    },
+    {
+        "name": "Computer Science",
+        "shortName": "cs",
+        "board": "CAIE",
+        "code": "0478",
+        "level": "IGCSE",
+        "icon": "",
+        "links": [
+            { "label": "MCQs", "url": "cs_mcqs.html" },
+            { "label": "Revision Notes", "url": "cs_revision_notes.html" },
+            { "label": "Past Paper Questions", "url": "cs_past_paper_questions.html" }
+        ]
+    },
+    {
+        "name": "Maths Challenge",
+        "shortName": "ukmtsmc",
+        "board": "UKMT",
+        "code": "",
+        "level": "Senior",
+        "icon": "",
+        "links": [
+            { "label": "MCQs", "url": "bio_mcqs.html" },
+            { "label": "Revision Notes", "url": "bio_revision_notes.html" },
+            { "label": "Past Paper Questions", "url": "bio_past_paper_questions.html" }
+        ]
+    }
+    
+        
+
+]    
