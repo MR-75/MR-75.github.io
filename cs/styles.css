@@ -1,0 +1,65 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #121212; /* Dark mode background color */
+    height: 200vh;
+}
+
+h1 {
+    text-align: center;
+}
+
+.navbar {
+    background: rgba(0,0,0,0);
+    color: #fff;
+    padding: 10px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+    display: grid;
+    grid-template-columns: 1fr auto; /* Make the login button take the last column */
+    align-items: center;
+}
+
+.login-button {
+    background-color: #8a4bf6; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 20px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    cursor: pointer;
+    border-radius: 20px;
+    justify-self: end; /* Align the button to the end (right) of its column */
+    margin-right: 30px;
+}
+
+.container {
+    max-width: 70%;
+    margin: 80px auto 20px; /* Adjust margin to make space for the navbar */
+    padding: 40px;
+    text-align: left; /* Center the content horizontally */
+    color: white;
+    justify-content: center;
+    align-items: center;
+    position: relative; /* Position relative for absolute positioning */
+}
+
+
+::-webkit-scrollbar {
+    width: 15px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: rgba(0,0,0,0);
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #51d551;
+    border-radius: 15px;
+}
