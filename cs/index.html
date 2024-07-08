@@ -32,17 +32,33 @@ Binary Prefixes:
 <li><b>Mebi</b>Byte = \(2^{10}\) Kibibytes = \(2^{20}\) bytes</li><br>
 <li><b>Gibi</b>Byte = \(2^{10}\) Mebibytes</li><br>
 <li><b>Tebi</b>byte = \(2^{10}\) Gibibytes</li><br>
----
 
 <h4>Number Systems</h4>
 <h5>Binary</h5>
 (we assume that you already know how to convert to and from binary/denary)
 
-If a normal binary number system has n bits, there can be $2^n$ possible combination of bits, and as 0 is included, the largest number would be $2^n-1$.
-```
-6 bits => 2^6 = 64 combinations
+If a normal binary number system has n bits, there can be \(2^n\) possible combination of bits, and as 0 is included, the largest number would be \(2^n-1\).
+6 bits => \(2^6\) = 64 combinations
 largest number = 64-1 = 63
-```
+
+
+<h4>Binary Coded Decimal (BCD)</h4>
+Another system used when converting decimal numbers to their binary equivalents where each decimal digit is given one nibble.
+
+As each digit in denary can only hold numbers from <b>0 to 9</b>, each nibble can only hold binary numbers from <b>0000 to 1001</b>
+Denary: 5
+BCD: 0101
+
+Denary: 47
+BCD: 0100 0111
+
+Denary: 999
+BCD: 1001 1001 1001
+
+<ul><p>BCD is used in:</p>
+<li>Digital watches</li>
+<li>Calculators</li>
+<li>Scoreboards and other digital displays</li></ul>
     </div>
     <script src="script.js" type="text/javascript"></script>
 </body>
